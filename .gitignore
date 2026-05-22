@@ -1,0 +1,48 @@
+# Operating system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.Trashes/
+.Spotlight-V100/
+.fseventsd/
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*.part
+*.crdownload
+
+# Local scripts, reports, and generated manifests
+_manifest/
+duplicate-reports/
+tool-reports/
+_conversion-tests/
+*.tsv
+*.csv
+*.log
+
+# Packaging artifacts
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Keep wallpaper assets tracked explicitly
+!*.webp
